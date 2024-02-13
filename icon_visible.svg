@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="47" height="47" rx="23.5" stroke="#212121"/>
+<g clip-path="url(#clip0_569_27)">
+<path d="M14.4 27.665C14.1319 27.665 13.8747 27.5585 13.6851 27.3689C13.4955 27.1793 13.389 26.9221 13.389 26.654V13.511C13.389 13.2429 13.4955 12.9857 13.6851 12.7961C13.8747 12.6065 14.1319 12.5 14.4 12.5H33.6C33.8681 12.5 34.1253 12.6065 34.3149 12.7961C34.5045 12.9857 34.611 13.2429 34.611 13.511V26.654C34.611 26.9221 34.5045 27.1793 34.3149 27.3689C34.1253 27.5585 33.8681 27.665 33.6 27.665H32.593" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29.055 19.071V15.027H32.088V19.071H29.055Z" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.176 25.39C17.176 26.2529 17.346 27.1074 17.6762 27.9046C18.0064 28.7018 18.4904 29.4262 19.1006 30.0364C19.7108 30.6465 20.4352 31.1306 21.2324 31.4608C22.0296 31.791 22.8841 31.961 23.747 31.961C24.6099 31.961 25.4644 31.791 26.2616 31.4608C27.0588 31.1306 27.7832 30.6465 28.3934 30.0364C29.0036 29.4262 29.4876 28.7018 29.8178 27.9046C30.148 27.1074 30.318 26.2529 30.318 25.39C30.318 23.6472 29.6257 21.9759 28.3934 20.7436C27.1611 19.5113 25.4897 18.819 23.747 18.819C22.0043 18.819 20.3329 19.5113 19.1006 20.7436C17.8683 21.9759 17.176 23.6472 17.176 25.39Z" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.587 23.874H26.137" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.587 26.907H26.137" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.394 30.037L33.857 35.5" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.418 15.533H18.945" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.418 18.06H18.003" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_569_27">
+<rect width="24" height="24" fill="white" transform="translate(12 12)"/>
+</clipPath>
+</defs>
+</svg>
